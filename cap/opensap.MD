@@ -47,5 +47,6 @@
 1. Use CQL
 2. Basics of how to run db transaction
 ## Week 2 Unit 7: Testing
-1. Topic 1
-2. Topic 2
+1. Unit Test
+2. Rest Client 
+3. CDS Debug Switch - show running SQL
