@@ -42,11 +42,10 @@
 6. cds.persistense.skip
 7. Provide test data with CSV
 ## Week 2 Unit 5: Custom Logic
-1. Topic 1
-2. Topic 2
+1. How to register and implement customer handlers on service 
 ## Week 2 Unit 6: Accessing Data from Code
-1. Topic 1
-2. Topic 2
+1. Use CQL
+2. Basics of how to run db transaction
 ## Week 2 Unit 7: Testing
 1. Topic 1
 2. Topic 2
