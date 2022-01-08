@@ -50,3 +50,16 @@
 1. Unit Test
 2. Rest Client 
 3. CDS Debug Switch - show running SQL
+## Week 3 Unit 1: Support for OData
+1. Serving OData Services
+## Week 3 Unit 2: Support for SAP Fiori Elements
+## Week 3 Unit 3: Localization
+## Week 3 Unit 4: Deploying for Production
+## Week 3 Unit 5: Authorization and Authentication
+## Week 3 Unit 6: Accessing Native SAP HANA Tables and Views
+## Week 4 Unit 1: Importing Service Definitions
+## Week 4 Unit 2: Connecting to Remote Services
+## Week 4 Unit 3: Consuming and Emitting Events
+## Week 4 Unit 4: Continuous Integration (CI) and Continuous Delivery (CD)
+## Week 4 Unit 5: Outlook - Service SDK for Java
+
