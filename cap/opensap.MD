@@ -57,6 +57,8 @@
 2. How to Enable Draft
 3. Map between annotation to EDMX
 ## Week 3 Unit 3: Localization
+1. Static i18n
+2. Dynmaic i18n
 ## Week 3 Unit 4: Deploying for Production
 ## Week 3 Unit 5: Authorization and Authentication
 ## Week 3 Unit 6: Accessing Native SAP HANA Tables and Views
