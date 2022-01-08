@@ -60,6 +60,8 @@
 1. Static i18n
 2. Dynmaic i18n
 ## Week 3 Unit 4: Deploying for Production
+1. Deploy to native cloud foundry
+2. Deploy using mta.yaml
 ## Week 3 Unit 5: Authorization and Authentication
 ## Week 3 Unit 6: Accessing Native SAP HANA Tables and Views
 ## Week 4 Unit 1: Importing Service Definitions
