@@ -22,17 +22,25 @@
 3. How to connect entity, service and test data together
 4. How to use BAS's local http test tool
 ## Week 2 Unit 1: Domain Modeling
-1. Topic 1
-2. Topic 2
+1. Unserstand concepts of entities, aspect
+2. Naming convension and modeling best practice
+3. Enterprise features such as localization
+4. Usage of aspect
 ## Week 2 Unit 2: Model Reuse
-1. Topic 1
-2. Topic 2
+1. Look into sap.common
+2. Module resolution
 ## Week 2 Unit 3: Generic capabilities
-1. Topic 1
-2. Topic 2
+1. Common functions provided by CDS
+2. Autoexposure, auto fill
+3. eTag
 ## Week 2 Unit 4: Using Databases
-1. Topic 1
-2. Topic 2
+1. Working with SQLlite in memory
+2. Working with SQLlite
+3. Access SQLlite in BAS
+4. Compile and deploy to HANA
+5. cds.persistense.exist
+6. cds.persistense.skip
+7. Provide test data with CSV
 ## Week 2 Unit 5: Custom Logic
 1. Topic 1
 2. Topic 2
