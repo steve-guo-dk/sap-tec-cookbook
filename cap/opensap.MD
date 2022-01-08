@@ -17,3 +17,7 @@
 4. CQL - CDS Query Language
 5. Define entity, service and use cds compile command
 ## Unit 4 Yor First App Using Node.js with SAP Application Programming Model
+1. Basic Node.js based code structure
+2. Usage of CDS command line cds watch
+3. How to connect entity, service and test data together
+4. How to use BAS's local http test tool
