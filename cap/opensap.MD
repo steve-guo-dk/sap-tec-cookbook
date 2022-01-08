@@ -53,6 +53,9 @@
 ## Week 3 Unit 1: Support for OData
 1. Serving OData Services
 ## Week 3 Unit 2: Support for SAP Fiori Elements
+1. Annotation for Fiori Elements
+2. How to Enable Draft
+3. Map between annotation to EDMX
 ## Week 3 Unit 3: Localization
 ## Week 3 Unit 4: Deploying for Production
 ## Week 3 Unit 5: Authorization and Authentication
