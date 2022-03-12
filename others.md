@@ -23,5 +23,11 @@
 23. [Collaborative Database Development in SAP HANA Cloud, SAP HANA database](https://github.com/SAP-samples/teched2021-DAT260)
 24. [Unbox and Implement Workforce Planning](https://github.com/SAP-samples/teched2021-ANA360)
 25. [Protect the Intelligent Enterprise with SAP Enterprise Threat Detection](https://github.com/SAP-samples/teched2021-IIS161)
-26. 
+26. [BTP Onboarding YouTube PlayList](https://www.youtube.com/playlist?list=PLkzo92owKnVw3l4fqcLoQalyFi9K4-UdY)
+27. [SAP HANA Cloud Onboarding Guide Module 01 - Fundamentals](https://www.sap.com/documents/2021/09/7476f8c4-f77d-0010-bca6-c68f7e60039b.html)
+28. [SAP HANA Cloud Onboarding Guide Module 02 - SAP HANA Cloud, SAP HANA Database](https://www.sap.com/documents/2021/09/26159b2f-f97d-0010-bca6-c68f7e60039b.html)
+29. [SAP HANA Cloud Onboarding Guide Module 03 - SAP HANA Cloud, data lake](https://www.sap.com/documents/2021/10/b00d66a1-fd7d-0010-bca6-c68f7e60039b.html)
+30. [SAP HANA Cloud Onboarding Guide Module 04 - SAP HANA Cloud, SAP Adaptive Server Enterprise](https://www.sap.com/documents/2021/10/4a9b5aa2-fe7d-0010-bca6-c68f7e60039b.html)
+31. [SAP HANA Cloud Onboarding Guide Module 05 - SAP HANA Cloud, SAP Adaptive Server Enterprise replication](https://www.sap.com/documents/2021/10/380fe4a2-fe7d-0010-bca6-c68f7e60039b.html)
+32. [HANA Cloud Information Center](https://blogs.sap.com/2022/01/13/all-you-want-to-know-on-sap-hana-cloud/)
 
